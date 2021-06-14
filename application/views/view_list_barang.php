@@ -1,7 +1,5 @@
 <?php
     defined('BASEPATH') OR exit('No direct script access allowed');
-    // $sekolah = $data['sekolah'];
-    // echo json_encode($barang);
 ?>
 
 <!DOCTYPE html>
